@@ -1,7 +1,7 @@
 {
 	"name": "dzangocart/subscription",
 	"type": "library",
-    	"description": "Ddzangocart subscription accounts",
+	"description": "Ddzangocart subscription accounts",
 	"keywords": ["dzangocart", "subscription", "propel"],
 	"licence": "MIT",
 	"authors": [
@@ -10,13 +10,13 @@
 			"email": "op@united-asian.com"
 		}
 	],
-        "require": {
+	"require": {
 		"php": ">=5.3.2",
 		"propel/propel-bundle": "1.1.*"
 	},
 	"autoload": {
-        	"psr-0": { "Dzangocart\\Subscription": "" }
+		"psr-0": { "Dzangocart\\Subscription": "src/Model" }
     	},
-    	"target-dir": "Dzangocart/Subscription"
+	"target-dir": "Dzangocart/Subscription"
 
 }
