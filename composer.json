@@ -16,7 +16,7 @@
 	},
 	"autoload": {
 		"psr-0": { "Dzangocart\\Subscription": "src/Model" }
-    	},
+	},
 	"target-dir": "Dzangocart/Subscription"
 
 }
