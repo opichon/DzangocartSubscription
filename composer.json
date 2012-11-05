@@ -1,5 +1,5 @@
 {
-	"name": "dzangocart/subscription"
+	"name": "dzangocart/subscription",
 	"type": "library",
     	"description": "Ddzangocart subscription accounts",
 	"keywords": ["dzangocart", "subscription", "propel"],
